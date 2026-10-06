@@ -316,7 +316,7 @@ const PRODUCTS = [
     "id": "artesania-01",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Clásica",
+    "name": "Mini Cucharon",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "20 cm de largo × 6 cm de ancho",
     "images": [
