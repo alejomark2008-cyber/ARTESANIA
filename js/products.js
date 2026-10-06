@@ -349,7 +349,7 @@ const PRODUCTS = [
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "25 cm de largo × 6 cm de ancho",
     "images": [
-      "assets/artesania-03-foto-01.jpg",
+    
       "assets/artesania-03-foto-02.jpg",
       "assets/artesania-03-foto-03.jpg"
     ],
