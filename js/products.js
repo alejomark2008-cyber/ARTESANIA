@@ -17,7 +17,7 @@ const PRODUCTS = [
     "id": "souvenir-01",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Guitarra",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-01.jpg"
@@ -30,7 +30,7 @@ const PRODUCTS = [
     "id": "souvenir-02",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Café",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-02.jpg"
@@ -43,7 +43,7 @@ const PRODUCTS = [
     "id": "souvenir-03",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Bogotá – Arquitectura",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-03.jpg"
@@ -56,7 +56,7 @@ const PRODUCTS = [
     "id": "souvenir-04",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Bogotá – Monserrate",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-04.jpg"
@@ -69,7 +69,7 @@ const PRODUCTS = [
     "id": "souvenir-05",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Chiva",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-05.jpg"
@@ -82,7 +82,7 @@ const PRODUCTS = [
     "id": "souvenir-06",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Pareja",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-06.jpg"
@@ -95,7 +95,7 @@ const PRODUCTS = [
     "id": "souvenir-07",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Bogotá – Ciudad",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-07.jpg"
@@ -108,7 +108,7 @@ const PRODUCTS = [
     "id": "souvenir-08",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Café 2",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-08.jpg"
@@ -121,7 +121,7 @@ const PRODUCTS = [
     "id": "souvenir-09",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Bus",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-09.jpg"
@@ -134,7 +134,7 @@ const PRODUCTS = [
     "id": "souvenir-10",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Taza de Café",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-10.jpg"
@@ -147,7 +147,7 @@ const PRODUCTS = [
     "id": "souvenir-11",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Acordeón",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-11.jpg"
@@ -160,7 +160,7 @@ const PRODUCTS = [
     "id": "souvenir-12",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Chiva 2",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-12.jpg"
@@ -173,7 +173,7 @@ const PRODUCTS = [
     "id": "souvenir-13",
     "section": "souvenirs",
     "category": "portavasos",
-    "name": "Portavasos Colombia – Sombrero",
+    "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-13.jpg"
@@ -186,7 +186,7 @@ const PRODUCTS = [
     "id": "souvenir-14",
     "section": "souvenirs",
     "category": "otros",
-    "name": "Souvenir Colombia – Contenedor Decorativo",
+    "name": "Portalapiz",
     "description": "Souvenir artesanal con temática colombiana, pensado como pieza decorativa y recuerdo.",
     "images": [
       "assets/souvenir-14.jpg"
@@ -238,7 +238,7 @@ const PRODUCTS = [
     "id": "souvenir-18",
     "section": "souvenirs",
     "category": "porta-telefonos",
-    "name": "Porta Teléfono Colombia – Tradición",
+    "name": "Portalapiz",
     "description": "Porta teléfono artesanal con diseño inspirado en Colombia, pensado para exhibir y sostener el celular.",
     "images": [
       "assets/souvenir-18.jpg"
@@ -251,7 +251,7 @@ const PRODUCTS = [
     "id": "souvenir-19",
     "section": "souvenirs",
     "category": "porta-telefonos",
-    "name": "Porta Teléfono Colombia – Ave 2",
+    "name": "Portalapiz",
     "description": "Porta teléfono artesanal con diseño inspirado en Colombia, pensado para exhibir y sostener el celular.",
     "images": [
       "assets/souvenir-19.jpg"
