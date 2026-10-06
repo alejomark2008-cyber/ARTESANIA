@@ -331,7 +331,7 @@ const PRODUCTS = [
     "id": "artesania-02",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Larga",
+    "name": "Coctelera pequeña",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "26 cm de largo × 3 cm de ancho",
     "images": [
@@ -345,7 +345,7 @@ const PRODUCTS = [
     "id": "artesania-03",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Natural",
+    "name": "Arrocera pequeña",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "25 cm de largo × 6 cm de ancho",
     "images": [
@@ -361,7 +361,7 @@ const PRODUCTS = [
     "id": "artesania-04",
     "section": "artesanias",
     "category": "palas",
-    "name": "Pala de Madera Artesanal",
+    "name": "Pala pequeña",
     "description": "Pala de madera artesanal, práctica para la cocina y elaborada con una estética cálida y natural.",
     "dimensions": "24 cm de largo × 5 cm de ancho",
     "images": [
@@ -375,7 +375,7 @@ const PRODUCTS = [
     "id": "artesania-05",
     "section": "artesanias",
     "category": "tenedores",
-    "name": "Tenedor de Madera",
+    "name": "Tenedor mediano",
     "description": "Tenedor de madera artesanal con acabado natural y diseño pensado para el uso cotidiano.",
     "dimensions": "21 cm de largo × 4 cm de ancho",
     "images": [
@@ -405,7 +405,7 @@ const PRODUCTS = [
     "id": "artesania-08",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Grande",
+    "name": "Cucharon grande",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "37 cm de largo × 9 cm de ancho",
     "images": [
@@ -420,7 +420,7 @@ const PRODUCTS = [
     "id": "artesania-09",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Mediana",
+    "name": "Platina Plana",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "30 cm de largo × 7 cm de ancho",
     "images": [
@@ -435,7 +435,7 @@ const PRODUCTS = [
     "id": "artesania-10",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Larga",
+    "name": "Coctelera grande",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "34 cm de largo × 4 cm de ancho",
     "images": [
@@ -450,7 +450,7 @@ const PRODUCTS = [
     "id": "artesania-11",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara Artesanal Mediana",
+    "name": "Cucharon pequeño",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "27 cm de largo × 7 cm de ancho",
     "images": [
@@ -465,7 +465,7 @@ const PRODUCTS = [
     "id": "artesania-12",
     "section": "artesanias",
     "category": "palas",
-    "name": "Pala de Madera Rectangular",
+    "name": "Pala de Grande",
     "description": "Pala de madera artesanal, práctica para la cocina y elaborada con una estética cálida y natural.",
     "dimensions": "30 cm de largo × 7 cm de ancho",
     "images": [
@@ -479,7 +479,7 @@ const PRODUCTS = [
     "id": "artesania-13",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Extra Grande",
+    "name": "Cuchara Amazonas",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "41 cm de largo × 8 cm de ancho",
     "images": [
@@ -494,7 +494,7 @@ const PRODUCTS = [
     "id": "artesania-14",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara Artesanal Pequeña",
+    "name": "Picantera",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "18 cm de largo × 3 cm de ancho",
     "images": [
@@ -508,7 +508,7 @@ const PRODUCTS = [
     "id": "artesania-15",
     "section": "artesanias",
     "category": "palas",
-    "name": "Pala de Madera de Cocina",
+    "name": "Pala Mediana",
     "description": "Pala de madera artesanal, práctica para la cocina y elaborada con una estética cálida y natural.",
     "dimensions": "29 cm de largo × 7 cm de ancho",
     "images": [
@@ -522,7 +522,7 @@ const PRODUCTS = [
     "id": "artesania-16",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Grande",
+    "name": "Arrocera grande",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "30 cm de largo × 7 cm de ancho",
     "images": [
@@ -536,7 +536,7 @@ const PRODUCTS = [
     "id": "artesania-17",
     "section": "artesanias",
     "category": "palas",
-    "name": "Pala de Madera de Mango Largo",
+    "name": "Pala Gigante",
     "description": "Pala de madera artesanal, práctica para la cocina y elaborada con una estética cálida y natural.",
     "dimensions": "1 metro de largo",
     "images": [
@@ -550,7 +550,7 @@ const PRODUCTS = [
     "id": "artesania-18",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara Ranurada de Madera",
+    "name": "Saca Fritos",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "30 cm de largo × 7 cm de ancho",
     "images": [
@@ -564,7 +564,7 @@ const PRODUCTS = [
     "id": "artesania-19",
     "section": "artesanias",
     "category": "tablas",
-    "name": "Tabla de Madera Rectangular",
+    "name": "Tablon pino",
     "description": "Tabla de madera artesanal, ideal para servir, presentar o trabajar alimentos con un estilo natural.",
     "dimensions": "30 cm × 40 cm",
     "images": [
@@ -592,7 +592,7 @@ const PRODUCTS = [
     "id": "artesania-21",
     "section": "artesanias",
     "category": "morteros",
-    "name": "Mortero de Madera Artesanal",
+    "name": "Mortero zapan #2",
     "description": "Mortero artesanal de madera acompañado de su mazo, pensado para cocina y preparación tradicional.",
     "dimensions": "Mortero: 8 cm × 8 cm · mazo: 13 cm",
     "images": [
@@ -606,7 +606,7 @@ const PRODUCTS = [
     "id": "artesania-22",
     "section": "artesanias",
     "category": "otros",
-    "name": "Organizador de Madera",
+    "name": "Servilletero",
     "description": "Pieza artesanal de madera para el hogar, con un diseño funcional y acabado natural.",
     "dimensions": "12 cm de largo × 5 cm de ancho × 8 cm de alto",
     "images": [
@@ -620,7 +620,7 @@ const PRODUCTS = [
     "id": "artesania-23",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cucharita de Madera Artesanal",
+    "name": "Azucarera 12cm",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "12 cm de largo × 2,5 cm de ancho",
     "images": [
@@ -635,7 +635,7 @@ const PRODUCTS = [
     "id": "artesania-24",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara Mini de Madera",
+    "name": "Mini azucarera",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "10 cm de largo × 2,5 cm de ancho",
     "images": [
@@ -650,7 +650,7 @@ const PRODUCTS = [
     "id": "artesania-25",
     "section": "artesanias",
     "category": "palas",
-    "name": "Pala de Madera Grande",
+    "name": "Pala XL",
     "description": "Pala de madera artesanal, práctica para la cocina y elaborada con una estética cálida y natural.",
     "dimensions": "45 cm de largo × 8 cm de ancho",
     "images": [
@@ -664,7 +664,7 @@ const PRODUCTS = [
     "id": "artesania-26",
     "section": "artesanias",
     "category": "otros",
-    "name": "Espátula de Madera",
+    "name": "Molinillo tetero",
     "description": "Pieza artesanal de madera para el hogar, con un diseño funcional y acabado natural.",
     "dimensions": "29 cm de largo × 3 cm de ancho",
     "images": [
@@ -678,7 +678,7 @@ const PRODUCTS = [
     "id": "artesania-27",
     "section": "artesanias",
     "category": "otros",
-    "name": "Utensilio de Madera Largo",
+    "name": "Molinillo grande",
     "description": "Pieza artesanal de madera para el hogar, con un diseño funcional y acabado natural.",
     "dimensions": "32 cm de largo × 4 cm de ancho",
     "images": [
@@ -692,7 +692,7 @@ const PRODUCTS = [
     "id": "artesania-28",
     "section": "artesanias",
     "category": "otros",
-    "name": "Utensilio de Madera Natural",
+    "name": "Molinillo pequeño",
     "description": "Pieza artesanal de madera para el hogar, con un diseño funcional y acabado natural.",
     "dimensions": "25 cm de alto × 3 cm de ancho",
     "images": [
@@ -706,7 +706,7 @@ const PRODUCTS = [
     "id": "artesania-29",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Cuchara de Madera Bicolor",
+    "name": "Mini sopera",
     "description": "Cuchara artesanal de madera, diseñada para aportar funcionalidad y un acabado natural a la cocina.",
     "dimensions": "17 cm de largo × 4 cm de ancho",
     "images": [
