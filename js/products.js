@@ -909,3 +909,67 @@ const PRODUCTS = [
     "wholesale": "0081"
   }
 ];
+{
+  id: "artesania-46",
+  section: "artesanias",
+  category: "morteros",
+  name: "Mortero de piedra #1",
+  description: "Mortero de piedra de menor tamaño, ideal para triturar, macerar y preparar pequeñas cantidades de ingredientes de forma tradicional.",
+  retail: null,
+  wholesale: null,
+  dimensions: "7,5 × 10 cm",
+  images: ["assets/mortero-piedra-03.png"],
+  measure: "assets/mortero-piedra-01.png"
+},
+
+{
+  id: "artesania-47",
+  section: "artesanias",
+  category: "morteros",
+  name: "Mortero de piedra #2",
+  description: "Mortero de piedra de tamaño compacto, ideal para triturar, macerar y preparar ingredientes de forma tradicional.",
+  retail: null,
+  wholesale: null,
+  dimensions: "9 × 11 cm",
+  images: ["assets/mortero-piedra-04.png"],
+  measure: "assets/mortero-piedra-05.png"
+},
+
+{
+  id: "artesania-48",
+  section: "artesanias",
+  category: "morteros",
+  name: "Mortero de piedra #3",
+  description: "Mortero de piedra de tamaño mediano, acompañado de su mazo, ideal para triturar, macerar y preparar ingredientes.",
+  retail: null,
+  wholesale: null,
+  dimensions: "10 × 12,5 cm",
+  images: ["assets/mortero-piedra-07.png"],
+  measure: "assets/mortero-piedra-08.png"
+},
+
+{
+  id: "artesania-49",
+  section: "artesanias",
+  category: "morteros",
+  name: "Mortero de piedra #4",
+  description: "Mortero de piedra de tamaño grande, acompañado de su mazo, ideal para triturar, macerar y preparar ingredientes de forma tradicional.",
+  retail: null,
+  wholesale: null,
+  dimensions: "11,5 × 15 cm",
+  images: ["assets/mortero-piedra-10.png"],
+  measure: "assets/mortero-piedra-09.png"
+},
+
+{
+  id: "artesania-50",
+  section: "artesanias",
+  category: "morteros",
+  name: "Mortero de piedra #5",
+  description: "Mortero de piedra de mayor tamaño, acompañado de su mazo, ideal para triturar, macerar y preparar mayores cantidades de ingredientes.",
+  retail: null,
+  wholesale: null,
+  dimensions: "13,5 × 19 cm",
+  images: ["assets/mortero-piedra-06.png"],
+  measure: "assets/mortero-piedra-02.png"
+},
