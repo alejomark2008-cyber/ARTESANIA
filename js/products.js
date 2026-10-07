@@ -324,8 +324,8 @@ const PRODUCTS = [
       "assets/artesania-01-foto-02.jpg"
     ],
     "measure": "assets/artesania-01-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0005",
+    "wholesale": "0053"
   },
   {
     "id": "artesania-02",
@@ -338,8 +338,8 @@ const PRODUCTS = [
       "assets/artesania-02-foto-01.jpg"
     ],
     "measure": "assets/artesania-02-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0004",
+    "wholesale": "0022"
   },
   {
     "id": "artesania-03",
@@ -354,8 +354,8 @@ const PRODUCTS = [
       "assets/artesania-03-foto-03.jpg"
     ],
     "measure": "assets/artesania-03-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0006",
+    "wholesale": "0053"
   },
   {
     "id": "artesania-04",
@@ -368,8 +368,8 @@ const PRODUCTS = [
       "assets/artesania-04-foto-01.jpg"
     ],
     "measure": "assets/artesania-04-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0004",
+    "wholesale": "0052"
   },
   {
     "id": "artesania-05",
@@ -383,8 +383,8 @@ const PRODUCTS = [
       "assets/artesania-05-foto-02.jpg"
     ],
     "measure": "assets/artesania-05-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0055",
+    "wholesale": "0053"
   },
   {
     "id": "artesania-06",
@@ -398,8 +398,8 @@ const PRODUCTS = [
       "assets/artesania-06-foto-02.jpg"
     ],
     "measure": "assets/artesania-06-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00052",
+    "wholesale": "00561"
   },
   {
     "id": "artesania-08",
@@ -413,8 +413,8 @@ const PRODUCTS = [
       "assets/artesania-08-foto-02.jpg"
     ],
     "measure": "assets/artesania-08-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00081",
+    "wholesale": "00021"
   },
   {
     "id": "artesania-09",
@@ -428,8 +428,8 @@ const PRODUCTS = [
       "assets/artesania-09-foto-02.jpg"
     ],
     "measure": "assets/artesania-09-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0008",
+    "wholesale": "0054"
   },
   {
     "id": "artesania-10",
@@ -443,8 +443,8 @@ const PRODUCTS = [
       "assets/artesania-10-foto-02.jpg"
     ],
     "measure": "assets/artesania-10-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0008",
+    "wholesale": "0053"
   },
   {
     "id": "artesania-11",
@@ -458,8 +458,8 @@ const PRODUCTS = [
       "assets/artesania-11-foto-02.jpg"
     ],
     "measure": "assets/artesania-11-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00001",
+    "wholesale": "0006"
   },
   {
     "id": "artesania-12",
@@ -472,8 +472,8 @@ const PRODUCTS = [
       "assets/artesania-12-foto-01.jpg"
     ],
     "measure": "assets/artesania-12-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0056",
+    "wholesale": "0083"
   },
   {
     "id": "artesania-13",
@@ -487,8 +487,8 @@ const PRODUCTS = [
       "assets/artesania-13-foto-02.jpg"
     ],
     "measure": "assets/artesania-13-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00081",
+    "wholesale": "00021"
   },
   {
     "id": "artesania-14",
@@ -501,8 +501,8 @@ const PRODUCTS = [
       "assets/artesania-14-foto-01.jpg"
     ],
     "measure": "assets/artesania-14-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0003",
+    "wholesale": "0051"
   },
   {
     "id": "artesania-15",
@@ -515,8 +515,8 @@ const PRODUCTS = [
       "assets/artesania-15-foto-01.jpg"
     ],
     "measure": "assets/artesania-15-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0006",
+    "wholesale": "0023"
   },
   {
     "id": "artesania-16",
@@ -529,8 +529,8 @@ const PRODUCTS = [
       "assets/artesania-16-foto-01.jpg"
     ],
     "measure": "assets/artesania-16-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0008",
+    "wholesale": "0054"
   },
   {
     "id": "artesania-17",
@@ -543,8 +543,8 @@ const PRODUCTS = [
       "assets/artesania-17-foto-01.jpg"
     ],
     "measure": "assets/artesania-17-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00004",
+    "wholesale": "00052"
   },
   {
     "id": "artesania-18",
@@ -557,8 +557,8 @@ const PRODUCTS = [
       "assets/artesania-18-foto-01.jpg"
     ],
     "measure": "assets/artesania-18-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0009",
+    "wholesale": "0005"
   },
   {
     "id": "artesania-19",
@@ -571,8 +571,8 @@ const PRODUCTS = [
       "assets/artesania-19-foto-01.jpg"
     ],
     "measure": "assets/artesania-19-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00062",
+    "wholesale": "00081"
   },
   {
     "id": "artesania-20",
@@ -585,8 +585,8 @@ const PRODUCTS = [
       "assets/artesania-20-foto-01.jpg"
     ],
     "measure": "assets/artesania-20-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00541",
+    "wholesale": "00501"
   },
   {
     "id": "artesania-21",
@@ -599,8 +599,8 @@ const PRODUCTS = [
       "assets/artesania-21-foto-01.jpg"
     ],
     "measure": "assets/artesania-21-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00021",
+    "wholesale": "0008"
   },
   {
     "id": "artesania-22",
@@ -613,8 +613,8 @@ const PRODUCTS = [
       "assets/artesania-22-foto-01.jpg"
     ],
     "measure": "assets/artesania-22-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0058",
+    "wholesale": "0006"
   },
   {
     "id": "artesania-23",
@@ -628,8 +628,8 @@ const PRODUCTS = [
       "assets/artesania-23-foto-02.jpg"
     ],
     "measure": "assets/artesania-23-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0002",
+    "wholesale": "0011"
   },
   {
     "id": "artesania-24",
@@ -643,8 +643,8 @@ const PRODUCTS = [
       "assets/artesania-24-foto-02.jpg"
     ],
     "measure": "assets/artesania-24-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0051",
+    "wholesale": "0001"
   },
   {
     "id": "artesania-25",
@@ -657,8 +657,8 @@ const PRODUCTS = [
       "assets/artesania-25-foto-01.jpg"
     ],
     "measure": "assets/artesania-25-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00521",
+    "wholesale": "0008"
   },
   {
     "id": "artesania-26",
@@ -671,8 +671,8 @@ const PRODUCTS = [
       "assets/artesania-26-foto-01.jpg"
     ],
     "measure": "assets/artesania-26-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0058",
+    "wholesale": "0055"
   },
   {
     "id": "artesania-27",
@@ -685,8 +685,8 @@ const PRODUCTS = [
       "assets/artesania-27-foto-01.jpg"
     ],
     "measure": "assets/artesania-27-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00501",
+    "wholesale": "0027"
   },
   {
     "id": "artesania-28",
@@ -699,8 +699,8 @@ const PRODUCTS = [
       "assets/artesania-28-foto-01.jpg"
     ],
     "measure": "assets/artesania-28-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0056",
+    "wholesale": "0024"
   },
   {
     "id": "artesania-29",
@@ -714,8 +714,8 @@ const PRODUCTS = [
       "assets/artesania-29-foto-02.jpg"
     ],
     "measure": "assets/artesania-29-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0052",
+    "wholesale": "0051"
   },
 {
     "id": "artesania-30",
@@ -726,8 +726,8 @@ const PRODUCTS = [
     "dimensions": "30 cm de largo × 5 cm de ancho",
     "images": ["assets/artesania-30-foto-01.jpg"],
     "measure": "assets/artesania-30-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0009",
+    "wholesale": "0005"
   },
   {
     "id": "artesania-31",
@@ -738,20 +738,20 @@ const PRODUCTS = [
     "dimensions": "20 cm de largo × 5 cm de ancho",
     "images": ["assets/artesania-31-foto-01.jpg", "assets/artesania-31-foto-02.jpg"],
     "measure": "assets/artesania-31-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0004",
+    "wholesale": "0002"
   },
   {
     "id": "artesania-32",
     "section": "artesanias",
     "category": "cucharas",
-    "name": "Salero",
+    "name": "Cuchara Medidora",
     "description": "Cuchara artesanal de madera con acabado natural.",
     "dimensions": "14 cm de largo × 4 cm de ancho",
     "images": ["assets/artesania-32-foto-01.jpg", "assets/artesania-32-foto-02.jpg"],
     "measure": "assets/artesania-32-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0053",
+    "wholesale": "0002"
   },
   {
     "id": "artesania-33",
@@ -762,8 +762,8 @@ const PRODUCTS = [
     "dimensions": "25 cm de largo × 6 cm de ancho",
     "images": ["assets/artesania-33-foto-01.jpg", "assets/artesania-33-foto-02.jpg", "assets/artesania-33-foto-03.jpg"],
     "measure": "assets/artesania-33-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0006",
+    "wholesale": "0053"
   },
   {
     "id": "artesania-34",
@@ -774,8 +774,8 @@ const PRODUCTS = [
     "dimensions": "30 cm de largo × 7 cm de ancho",
     "images": ["assets/artesania-34-foto-01.jpg", "assets/artesania-34-foto-02.jpg"],
     "measure": "assets/artesania-34-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0008",
+    "wholesale": "0054"
   },
   {
     "id": "artesania-35",
@@ -786,8 +786,8 @@ const PRODUCTS = [
     "dimensions": "13 cm de largo × 3 cm de ancho",
     "images": ["assets/artesania-35-foto-01.jpg"],
     "measure": "assets/artesania-35-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0052",
+    "wholesale": "0031"
   },
   {
     "id": "artesania-36",
@@ -798,8 +798,8 @@ const PRODUCTS = [
     "dimensions": "25 cm de largo × 3 cm de ancho",
     "images": ["assets/artesania-36-foto-01.jpg"],
     "measure": "assets/artesania-36-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0004",
+    "wholesale": "0052"
   },
   {
     "id": "artesania-37",
@@ -810,8 +810,8 @@ const PRODUCTS = [
     "dimensions": "Mortero: 10 cm de alto × 9 cm de ancho · mazo: 14 cm",
     "images": ["assets/artesania-37-foto-01.jpg"],
     "measure": "assets/artesania-37-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "artesania-38",
@@ -822,8 +822,8 @@ const PRODUCTS = [
     "dimensions": "6 pulgadas de alto",
     "images": ["assets/artesania-38-foto-01.jpg"],
     "measure": "assets/artesania-38-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00032",
+    "wholesale": "00081"
   },
   {
     "id": "artesania-39",
@@ -834,8 +834,8 @@ const PRODUCTS = [
     "dimensions": "4 pulgadas de alto × 3 cm de ancho",
     "images": ["assets/artesania-39-foto-01.jpg"],
     "measure": "assets/artesania-39-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00012",
+    "wholesale": "00551"
   },
   {
     "id": "artesania-40",
@@ -846,44 +846,44 @@ const PRODUCTS = [
     "dimensions": "40 cm de largo × 20 cm de alto",
     "images": ["assets/artesania-40-foto-01.jpg"],
     "measure": "assets/artesania-40-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00032",
+    "wholesale": "00551"
   },
   {
     "id": "artesania-41",
     "section": "artesanias",
     "category": "morteros",
-    "name": "Mortero grande",
+    "name": "Mortero urapan grande",
     "description": "Mortero artesanal de madera acompañado de su mazo.",
     "dimensions": "Mortero: 11 cm de alto × 7 cm de ancho · mazo: 16 cm",
     "images": ["assets/artesania-41-foto-01.jpg"],
     "measure": "assets/artesania-41-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00001",
+    "wholesale": "0008"
   },
   {
     "id": "artesania-42",
     "section": "artesanias",
     "category": "morteros",
-    "name": "Mortero mediano",
+    "name": "Mortero urapan mediano",
     "description": "Mortero artesanal de madera acompañado de su mazo.",
     "dimensions": "Mortero: 9 cm de alto × 6 cm de ancho · mazo: 15 cm",
     "images": ["assets/artesania-42-foto-01.jpg"],
     "measure": "assets/artesania-42-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0009",
+    "wholesale": "0007"
   },
   {
     "id": "artesania-43",
     "section": "artesanias",
     "category": "morteros",
-    "name": "Mortero pequeño",
+    "name": "Mortero urapan pequeño",
     "description": "Mortero artesanal de madera acompañado de su mazo.",
     "dimensions": "Mortero: 10 cm de alto × 6 cm de ancho · mazo: 15 cm",
     "images": ["assets/artesania-43-foto-01.jpg"],
     "measure": "assets/artesania-43-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0008",
+    "wholesale": "0006"
   },
   {
     "id": "artesania-44",
@@ -894,8 +894,8 @@ const PRODUCTS = [
     "dimensions": "18 cm de largo × 3 cm de ancho",
     "images": ["assets/artesania-44-foto-01.jpg"],
     "measure": "assets/artesania-44-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0005",
+    "wholesale": "0052"
   },
   {
     "id": "artesania-45",
@@ -906,7 +906,7 @@ const PRODUCTS = [
     "dimensions": "10 cm de largo × 2 cm de ancho",
     "images": ["assets/artesania-45-foto-01.jpg"],
     "measure": "assets/artesania-45-medidas.jpg",
-    "retail": null,
-    "wholesale": null
+    "retail": "0003",
+    "wholesale": "0081"
   }
 ];
