@@ -250,7 +250,7 @@ const PRODUCTS = [
   {
     "id": "souvenir-19",
     "section": "souvenirs",
-    "category": "Portalapiz",
+    "category": "otros",
     "name": "Portalapiz",
     "description": "Porta teléfono artesanal con diseño inspirado en Colombia, pensado para exhibir y sostener el celular.",
     "images": [
