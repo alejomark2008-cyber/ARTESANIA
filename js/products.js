@@ -928,8 +928,8 @@ const PRODUCTS = [
     "name": "Mortero de piedra #2",
     "description": "Mortero de piedra de tamaño compacto, acompañado de su mazo. Ideal para triturar, macerar y preparar ingredientes de forma tradicional.",
     "dimensions": "9 × 11 cm",
-    "images": ["assets/mortero-piedra-04.png"],
-    "measure": "assets/mortero-piedra-05.png",
+    "images": ["assets/mortero-piedra-04.jpeg"],
+    "measure": "assets/mortero-piedra-05.jpeg",
     "retail": "00062",
     "wholesale": "00061"
   },
@@ -940,8 +940,8 @@ const PRODUCTS = [
     "name": "Mortero de piedra #3",
     "description": "Mortero de piedra de tamaño mediano, acompañado de su mazo. Ideal para triturar, macerar y preparar ingredientes de forma tradicional.",
     "dimensions": "10 × 12,5 cm",
-    "images": ["assets/mortero-piedra-07.png"],
-    "measure": "assets/mortero-piedra-08.png",
+    "images": ["assets/mortero-piedra-07.jpeg"],
+    "measure": "assets/mortero-piedra-08.jpeg",
     "retail": "00003",
     "wholesale": "00002"
   },
@@ -952,8 +952,8 @@ const PRODUCTS = [
     "name": "Mortero de piedra #4",
     "description": "Mortero de piedra de tamaño grande, acompañado de su mazo. Ideal para triturar, macerar y preparar ingredientes de forma tradicional.",
     "dimensions": "11,5 × 15 cm",
-    "images": ["assets/mortero-piedra-10.png"],
-    "measure": "assets/mortero-piedra-09.png",
+    "images": ["assets/mortero-piedra-10.jpeg"],
+    "measure": "assets/mortero-piedra-09.jpeg",
     "retail": "00043",
     "wholesale": "00042"
   },
@@ -964,8 +964,8 @@ const PRODUCTS = [
     "name": "Mortero de piedra #5",
     "description": "Mortero de piedra de mayor tamaño, acompañado de su mazo. Ideal para triturar, macerar y preparar mayores cantidades de ingredientes de forma tradicional.",
     "dimensions": "13,5 × 19 cm",
-    "images": ["assets/mortero-piedra-06.png"],
-    "measure": "assets/mortero-piedra-02.png",
+    "images": ["assets/mortero-piedra-06.jpeg"],
+    "measure": "assets/mortero-piedra-02.jpeg",
     "retail": "00054",
     "wholesale": "00053"
   },
