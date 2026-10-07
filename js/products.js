@@ -921,8 +921,8 @@ const PRODUCTS = [
       "assets/mortero-piedra-03.jpeg"
     ],
     "measure": "assets/mortero-piedra-01.jpeg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00042",
+    "wholesale": "00021"
   },
   {
     "id": "artesania-47",
@@ -935,8 +935,8 @@ const PRODUCTS = [
       "assets/mortero-piedra-04.jpeg"
     ],
     "measure": "assets/mortero-piedra-05.jpeg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00062",
+    "wholesale": "00061"
   },
   {
     "id": "artesania-48",
@@ -949,8 +949,8 @@ const PRODUCTS = [
       "assets/mortero-piedra-07.jpeg"
     ],
     "measure": "assets/mortero-piedra-08.jpeg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00003",
+    "wholesale": "00002"
   },
   {
     "id": "artesania-49",
@@ -963,8 +963,8 @@ const PRODUCTS = [
       "assets/mortero-piedra-10.jpeg"
     ],
     "measure": "assets/mortero-piedra-09.jpeg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00043",
+    "wholesale": "00042"
   },
   {
     "id": "artesania-50",
@@ -977,7 +977,7 @@ const PRODUCTS = [
       "assets/mortero-piedra-06.jpeg"
     ],
     "measure": "assets/mortero-piedra-02.jpeg",
-    "retail": null,
-    "wholesale": null
+    "retail": "00054",
+    "wholesale": "00053"
   }
 ];
