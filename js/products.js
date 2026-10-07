@@ -916,8 +916,8 @@ const PRODUCTS = [
     "name": "Mortero de piedra #1",
     "description": "Mortero de piedra de menor tamaño, acompañado de su mazo. Ideal para triturar, macerar y preparar pequeñas cantidades de ingredientes de forma tradicional.",
     "dimensions": "7,5 × 10 cm",
-    "images": ["assets/mortero-piedra-03.png"],
-    "measure": "assets/mortero-piedra-01.png",
+    "images": ["assets/mortero-piedra-03.jpeg"],
+    "measure": "assets/mortero-piedra-01.jpeg",
     "retail": "00024",
     "wholesale": "00021"
   },
