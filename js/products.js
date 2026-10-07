@@ -16,184 +16,184 @@ const PRODUCTS = [
   {
     "id": "souvenir-01",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-01.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-02",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-02.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-03",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-03.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-04",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-04.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-05",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-05.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-06",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-06.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-07",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-07.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-08",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-08.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-09",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-09.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-10",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-10.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-11",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-11.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-12",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-12.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-13",
     "section": "souvenirs",
-    "category": "portavasos",
+    "category": "imanes",
     "name": "iman",
     "description": "Portavasos artesanal con diseño inspirado en Colombia. Ideal como recuerdo, regalo o detalle decorativo.",
     "images": [
       "assets/souvenir-13.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "0005-0055",
+    "wholesale": "0072-0023"
   },
   {
     "id": "souvenir-14",
     "section": "souvenirs",
-    "category": "otros",
+    "category": "Portalapices",
     "name": "Portalapiz",
     "description": "Souvenir artesanal con temática colombiana, pensado como pieza decorativa y recuerdo.",
     "images": [
       "assets/souvenir-14.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00061",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-15",
@@ -205,8 +205,8 @@ const PRODUCTS = [
       "assets/souvenir-15.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-16",
@@ -218,8 +218,8 @@ const PRODUCTS = [
       "assets/souvenir-16.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-17",
@@ -231,34 +231,34 @@ const PRODUCTS = [
       "assets/souvenir-17.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-18",
     "section": "souvenirs",
-    "category": "porta-telefonos",
+    "category": "Portalapices",
     "name": "Portalapiz",
     "description": "Porta teléfono artesanal con diseño inspirado en Colombia, pensado para exhibir y sostener el celular.",
     "images": [
       "assets/souvenir-18.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00061",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-19",
     "section": "souvenirs",
-    "category": "porta-telefonos",
+    "category": "Portalapiz",
     "name": "Portalapiz",
     "description": "Porta teléfono artesanal con diseño inspirado en Colombia, pensado para exhibir y sostener el celular.",
     "images": [
       "assets/souvenir-19.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00061",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-20",
@@ -270,8 +270,8 @@ const PRODUCTS = [
       "assets/souvenir-20.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-21",
@@ -283,8 +283,8 @@ const PRODUCTS = [
       "assets/souvenir-21.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-22",
@@ -296,8 +296,8 @@ const PRODUCTS = [
       "assets/souvenir-22.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "souvenir-23",
@@ -309,8 +309,8 @@ const PRODUCTS = [
       "assets/souvenir-23.jpg"
     ],
     "measure": null,
-    "retail": null,
-    "wholesale": null
+    "retail": "00051",
+    "wholesale": "00021"
   },
   {
     "id": "artesania-01",
