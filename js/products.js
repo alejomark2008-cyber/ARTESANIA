@@ -185,7 +185,7 @@ const PRODUCTS = [
   {
     "id": "souvenir-14",
     "section": "souvenirs",
-    "category": "Portalapices",
+    "category": "otros",
     "name": "Portalapiz",
     "description": "Souvenir artesanal con temática colombiana, pensado como pieza decorativa y recuerdo.",
     "images": [
@@ -237,7 +237,7 @@ const PRODUCTS = [
   {
     "id": "souvenir-18",
     "section": "souvenirs",
-    "category": "Portalapices",
+    "category": "otros",
     "name": "Portalapiz",
     "description": "Porta teléfono artesanal con diseño inspirado en Colombia, pensado para exhibir y sostener el celular.",
     "images": [
