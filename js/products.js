@@ -1235,7 +1235,7 @@ const PRODUCTS = [
     "id": "souvenir-41",
     "section": "souvenirs",
     "category": "llaveros",
-    "name": "Llavero artesanal 1",
+    "name": "Llavero tipico colombia 1",
     "description": "Llavero artesanal con diseño colombiano, ideal para llevar tus llaves y conservar un recuerdo de Colombia.",
     "images": [
       "assets/llavero-01.png"
@@ -1248,7 +1248,7 @@ const PRODUCTS = [
     "id": "souvenir-42",
     "section": "souvenirs",
     "category": "llaveros",
-    "name": "Llavero artesanal 2",
+    "name": "Llavero tipico colombia 2",
     "description": "Llavero artesanal con diseño colombiano, ideal para llevar tus llaves y regalar un detalle especial.",
     "images": [
       "assets/llavero-02.png"
@@ -1261,7 +1261,7 @@ const PRODUCTS = [
     "id": "souvenir-43",
     "section": "souvenirs",
     "category": "llaveros",
-    "name": "Llavero artesanal 3",
+    "name": "Llavero tipico colombia 3",
     "description": "Llavero artesanal con diseño colombiano, práctico para el uso diario y como recuerdo de Colombia.",
     "images": [
       "assets/llavero-03.png"
