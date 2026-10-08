@@ -27,7 +27,7 @@ const config = {
 
   souvenirs: {
     title: "Souvenirs de Colombia",
-    intro: "Recuerdos artesanales inspirados en Colombia, ideales para regalar, coleccionar o llevar un pedacito de nuestra tierra.",
+    intro: "Recuerdos artesanales inspirados en Colombia, ideales para regalar, coleccionar o llevar un pedacito de nuestra tierra. Ademas creamos diseños personalizados, adaptados a tus ideas y necesidades para que cada producto sea unico y especial",
     cats: [
       ["todos", "Todos"],
       ["portavasos", "Portavasos"],
