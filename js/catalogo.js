@@ -13,8 +13,8 @@ const config = {
   artesanias:{
     title:"Artesanías para el hogar",
     intro:"Piezas hechas a mano con madera natural. Explora cucharas, palas, tablas, tenedores, morteros y otros utensilios.",
-    cats:[["todos","Todos"],["cucharas","Cucharas"],["palas","Palas"],["tablas","Tablas"],["tenedores","Tenedores"],["morteros","Morteros"],["otros","Otros"]]
-  },
+    
+cats:[["todos","Todos"],["portavasos","Portavasos"],["porta-telefonos","Porta teléfonos"],["imanes","Imanes"],["llaveros","Llaveros"],["otros","Otros"]]
   souvenirs:{
     title:"Souvenirs de Colombia",
     intro:"Recuerdos artesanales inspirados en Colombia, ideales para regalar, coleccionar o llevar un pedacito de nuestra tierra.",
