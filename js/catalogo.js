@@ -18,8 +18,8 @@ const config = {
   souvenirs:{
     title:"Souvenirs de Colombia",
     intro:"Recuerdos artesanales inspirados en Colombia, ideales para regalar, coleccionar o llevar un pedacito de nuestra tierra.",
-    cats:[["todos","Todos"],["portavasos","Portavasos"],["porta-telefonos","Porta teléfonos"],["imanes","Imanes"],["otros","Otros"]]
-  }
+    
+cats:[["todos","Todos"],["portavasos","Portavasos"],["porta-telefonos","Porta teléfonos"],["imanes","Imanes"],["llaveros","Llaveros"],["otros","Otros"]]
 }[section];
 
 title.textContent=config.title; intro.textContent=config.intro;
